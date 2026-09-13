@@ -1,0 +1,92 @@
+Pos,Player,Tm,Age,Yrs,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Solo,Sk,Int,All-pro teams,Player-additional
+QB,Patrick Mahomes,KAN,27,5,17,17,435,648,5250,41,12,61,358,4,1,6,0,1,0.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm NFLPA: 1st Tm PFF: 1st Tm SN: 1st Tm,MahoPa00
+QB,Jalen Hurts,PHI,24,2,15,15,306,460,3701,22,6,165,760,13,0,0,0,2,0.0,0,FW: 1st Tm All-Conf. AP: 2nd Tm,HurtJa00
+QB,Joe Burrow,CIN,26,2,16,16,414,606,4475,35,12,75,257,5,0,0,0,0,0.0,0,PFF: 2nd Tm,BurrJo01
+RB,Josh Jacobs,LVR,24,3,17,17,0,0,0,0,0,340,1653,12,53,400,0,2,0.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm NFLPA: 1st Tm PFF: 1st Tm,JacoJo01
+RB,Nick Chubb,CLE,27,4,17,17,0,0,0,0,0,302,1525,12,27,239,1,0,0.0,0,FW: 1st Tm All-Conf. AP: 2nd Tm FW: 1st Tm PFF: 2nd Tm,ChubNi00
+RB,Saquon Barkley,NYG,25,4,16,16,0,0,0,0,0,295,1312,10,57,338,0,0,0.0,0,FW: 1st Tm All-Conf. SN: 1st Tm,BarkSa00
+RB,Derrick Henry,TEN,28,6,16,16,2,2,4,1,0,349,1538,13,33,398,0,0,0.0,0,SN: 1st Tm,HenrDe00
+RB,Christian McCaffrey,2TM,26,5,17,16,1,1,34,1,0,244,1139,8,85,741,5,0,0.0,0,FW: 1st Tm All-Conf.,McCaCh01
+FB,Kyle Juszczyk,SFO,31,9,16,12,0,0,0,0,0,7,26,1,19,200,1,1,0.0,0,NFLPA: 1st Tm,JuszKy00
+WR,Justin Jefferson,MIN,23,2,17,17,2,2,34,0,0,4,24,1,128,1809,8,2,0.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm NFLPA: 1st Tm PFF: 1st Tm SN: 1st Tm,JeffJu00
+WR,Davante Adams,LVR,30,8,17,17,0,0,0,0,0,3,-1,0,100,1516,14,1,0.0,0,FW: 1st Tm All-Conf. AP: 1st Tm NFLPA: 1st Tm PFF: 1st Tm SN: 1st Tm,AdamDa01
+WR,Tyreek Hill,MIA,28,6,17,17,0,0,0,0,0,7,32,1,119,1710,7,4,0.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm,HillTy00
+WR,A.J. Brown,PHI,25,3,17,16,0,0,0,0,0,0,0,0,88,1496,11,2,0.0,0,FW: 1st Tm All-Conf. AP: 2nd Tm PFF: 2nd Tm,BrowAJ00
+WR,Stefon Diggs,BUF,29,7,16,16,0,0,0,0,0,1,-3,0,108,1429,11,0,0.0,0,AP: 2nd Tm PFF: 2nd Tm,DiggSt00
+WR,CeeDee Lamb,DAL,23,2,17,17,0,0,0,0,0,10,47,0,107,1359,9,2,0.0,0,AP: 2nd Tm,LambCe00
+WR,Amon-Ra St. Brown,DET,23,1,16,16,0,0,0,0,0,9,95,0,106,1161,6,0,0.0,0,PFF: 2nd Tm,StxxAm00
+TE,Travis Kelce,KAN,33,9,17,17,0,0,0,0,0,2,5,0,110,1338,12,2,0.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm NFLPA: 1st Tm PFF: 1st Tm SN: 1st Tm,KelcTr00
+TE,George Kittle,SFO,29,5,15,15,0,0,0,0,0,0,0,0,60,765,11,2,0.0,0,FW: 1st Tm All-Conf. AP: 2nd Tm PFF: 2nd Tm,KittGe00
+LT,Andrew Thomas,NYG,23,2,16,16,0,0,0,0,0,0,0,0,0,0,0,4,0.0,0,PFF: 1st Tm AP: 2nd Tm,ThomAn02
+T,Lane Johnson,PHI,32,9,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm NFLPA: 1st Tm PFF: 1st Tm SN: 1st Tm,JohnLa01
+T,Trent Williams,SFO,34,12,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm NFLPA: 1st Tm PFF: 2nd Tm SN: 1st Tm,WillTr21
+T,Laremy Tunsil,HOU,28,6,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,FW: 1st Tm All-Conf.,TunsLa00
+T,Terron Armstead,MIA,31,9,13,13,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,FW: 1st Tm All-Conf.,ArmsTe00
+G,Joel Bitonio,CLE,31,8,17,17,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm NFLPA: 1st Tm PFF: 1st Tm SN: 1st Tm,BitoJo00
+G,Zack Martin,DAL,32,8,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm NFLPA: 1st Tm,MartZa00
+G,Chris Lindstrom,ATL,25,3,17,17,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,FW: 1st Tm All-Conf. AP: 2nd Tm PFF: 1st Tm SN: 1st Tm,LindCh00
+G,Joe Thuney,KAN,30,6,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,FW: 1st Tm All-Conf. AP: 2nd Tm PFF: 2nd Tm,ThunJo00
+C,Jason Kelce,PHI,35,11,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm NFLPA: 1st Tm PFF: 2nd Tm SN: 1st Tm,KelcJa00
+C,Creed Humphrey,KAN,23,1,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,FW: 1st Tm All-Conf. AP: 2nd Tm PFF: 1st Tm,HumpCr00
+RG,Michael Onwenu,NWE,25,2,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFF: 2nd Tm,OnweMi00
+RT,Tristan Wirfs,TAM,23,2,13,13,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,AP: 2nd Tm PFF: 2nd Tm,WirfTr00
+DL,Aaron Donald,LAR,31,8,11,11,0,0,0,0,0,0,0,0,0,0,0,27,5.0,0,NFLPA: 1st Tm SN: 1st Tm,DonaAa00
+DL,Jeffery Simmons,TEN,25,3,15,15,0,0,0,0,0,0,0,0,0,0,0,25,7.5,0,AP: 2nd Tm SN: 1st Tm,SimmJe01
+DL,Cameron Heyward,PIT,33,11,17,17,0,0,0,0,0,0,0,0,0,0,0,39,10.5,0,PFF: 2nd Tm,HeywCa01
+DE,Nick Bosa,SFO,25,3,16,16,0,0,0,0,0,0,0,0,0,0,0,41,18.5,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm NFLPA: 1st Tm PFF: 2nd Tm SN: 1st Tm,BosaNi00
+DE,Myles Garrett,CLE,27,5,16,15,0,0,0,0,0,0,0,0,0,0,0,37,16.0,0,FW: 1st Tm All-Conf. AP: 2nd Tm FW: 1st Tm NFLPA: 1st Tm PFF: 1st Tm SN: 1st Tm,GarrMy00
+DE,Maxx Crosby,LVR,25,3,17,17,0,0,0,0,0,0,0,0,0,0,0,58,12.5,0,FW: 1st Tm All-Conf. PFF: 2nd Tm,CrosMa00
+DE,Brian Burns,CAR,24,3,16,16,0,0,0,0,0,0,0,0,0,0,0,34,12.5,0,FW: 1st Tm All-Conf.,BurnBr00
+DT,Chris Jones,KAN,28,6,17,17,0,0,0,0,0,0,0,0,0,0,0,30,15.5,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm NFLPA: 1st Tm PFF: 1st Tm,JoneCh09
+DT,Dexter Lawrence,NYG,25,3,16,16,0,0,0,0,0,0,0,0,0,0,0,35,7.5,0,FW: 1st Tm All-Conf. AP: 2nd Tm NFLPA: 1st Tm PFF: 1st Tm,LawrDe03
+DT,Quinnen Williams,NYJ,25,3,16,16,0,0,0,0,0,0,0,0,0,0,0,35,12.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 2nd Tm,WillQu00
+DT,Javon Hargrave,PHI,29,6,17,17,0,0,0,0,0,0,0,0,0,0,0,37,11.0,0,FW: 1st Tm All-Conf.,HargJa00
+DT,Daron Payne,WAS,25,4,17,17,0,0,0,0,0,0,0,0,0,0,0,32,11.5,0,FW: 1st Tm All-Conf.,PaynDa00
+OLB,Micah Parsons,DAL,23,1,17,17,0,0,0,0,0,0,0,0,0,0,0,42,13.5,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm,ParsMi00
+OLB,Haason Reddick,PHI,28,5,17,17,0,0,0,0,0,0,0,0,0,0,0,35,16.0,0,FW: 1st Tm All-Conf. AP: 2nd Tm FW: 1st Tm,ReddHa00
+OLB,Matt Judon,NWE,30,6,17,15,0,0,0,0,0,0,0,0,0,0,0,36,15.5,0,FW: 1st Tm All-Conf. SN: 1st Tm,JudoMa00
+OLB,Matt Milano,BUF,28,5,15,15,0,0,0,0,0,0,0,0,0,0,0,72,1.5,3,FW: 1st Tm All-Conf. AP: 1st Tm,MilaMa00
+OLB,Alex Highsmith,PIT,25,2,17,17,0,0,0,0,0,0,0,0,0,0,0,38,14.5,0,FW: 1st Tm All-Conf.,HighAl02
+MLB,Fred Warner,SFO,26,4,17,17,0,0,0,0,0,0,0,0,0,0,0,79,2.0,1,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm NFLPA: 1st Tm PFF: 2nd Tm SN: 1st Tm,WarnFr00
+MLB,Roquan Smith,2TM,25,4,17,17,0,0,0,0,0,0,0,0,0,0,0,103,4.5,3,FW: 1st Tm All-Conf. AP: 1st Tm NFLPA: 1st Tm,SmitRo07
+LB,Bobby Wagner,LAR,32,10,17,17,0,0,0,0,0,0,0,0,0,0,0,81,6.0,2,AP: 2nd Tm PFF: 1st Tm,WagnBo00
+LB,T.J. Edwards,PHI,26,3,17,17,0,0,0,0,0,0,0,0,0,0,0,99,2.0,0,PFF: 1st Tm,EdwaTJ02
+LB,C.J. Mosley,NYJ,30,8,17,17,0,0,0,0,0,0,0,0,0,0,0,99,1.0,1,AP: 2nd Tm,MoslC.00
+LB,Lavonte David,TAM,32,10,17,17,0,0,0,0,0,0,0,0,0,0,0,80,3.0,0,PFF: 2nd Tm,DaviLa00
+LB,Demario Davis,NOR,33,10,17,17,0,0,0,0,0,0,0,0,0,0,0,54,6.5,1,AP: 2nd Tm,DaviDe00
+CB,Patrick Surtain II,DEN,22,1,17,17,0,0,0,0,0,0,0,0,0,0,0,46,0.0,2,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm NFLPA: 1st Tm PFF: 1st Tm SN: 1st Tm,SurtPa01
+CB,Sauce Gardner,NYJ,21,Rook,17,17,0,0,0,0,0,0,0,0,0,0,0,51,0.0,2,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm,GardSa00
+CB,Darius Slay,PHI,31,9,17,17,0,0,0,0,0,0,0,0,0,0,0,40,0.0,3,FW: 1st Tm All-Conf. NFLPA: 1st Tm,SlayDa00
+CB,Jaire Alexander,GNB,25,4,16,16,0,0,0,0,0,0,0,0,0,0,0,43,0.0,5,FW: 1st Tm All-Conf. AP: 2nd Tm PFF: 2nd Tm,AlexJa00
+CB,James Bradberry,PHI,29,6,17,17,0,0,0,0,0,0,0,0,0,0,0,39,0.0,3,AP: 2nd Tm PFF: 2nd Tm,BradJa00
+CB,Patrick Peterson,MIN,32,11,17,17,0,0,0,0,0,0,0,0,0,0,0,56,0.0,5,PFF: 2nd Tm,PetePa00
+DB,Jalen Ramsey,LAR,28,6,17,17,0,0,0,0,0,0,0,0,0,0,0,64,2.0,4,PFF: 1st Tm,RamsJa00
+S,Minkah Fitzpatrick,PIT,26,4,15,15,0,0,0,0,0,0,0,0,0,0,0,56,0.0,6,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm NFLPA: 1st Tm PFF: 1st Tm SN: 1st Tm,FitzMi00
+S,Derwin James,LAC,26,4,14,14,0,0,0,0,0,0,0,0,0,0,0,64,4.0,2,FW: 1st Tm All-Conf. AP: 2nd Tm NFLPA: 1st Tm SN: 1st Tm,JameDe00
+S,Talanoa Hufanga,SFO,23,1,17,17,0,0,0,0,0,0,0,0,0,0,0,66,2.0,4,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm,HufaTa00
+S,Ryan Neal,SEA,27,4,14,10,0,0,0,0,0,0,0,0,0,0,0,45,1.0,1,PFF: 1st Tm,NealRy00
+S,C.J. Gardner-Johnson,PHI,25,3,12,12,0,0,0,0,0,0,0,0,0,0,0,61,1.0,6,FW: 1st Tm All-Conf.,GardCh00
+S,Justin Simmons,DEN,29,6,12,12,0,0,0,0,0,0,0,0,0,0,0,42,0.0,6,AP: 2nd Tm,SimmJu00
+S,Tyrann Mathieu,NOR,30,9,17,17,0,0,0,0,0,0,0,0,0,0,0,64,1.0,3,PFF: 2nd Tm,MathTy00
+S,Kamren Curl,WAS,23,2,12,12,0,0,0,0,0,0,0,0,0,0,0,58,1.0,0,PFF: 2nd Tm,CurlKa00
+LS,Andrew DePaola,MIN,35,8,17,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0,AP: 1st Tm PFF: 1st Tm,DePaAn00
+LS,Morgan Cox,TEN,36,12,17,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,NFLPA: 1st Tm,CoxxMo00
+LS,Nick Moore,BAL,30,2,17,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0,AP: 2nd Tm,MoorNi00
+LS,Zach Wood,NOR,29,5,17,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0,PFF: 2nd Tm,WoodZa00
+K,Daniel Carlson,LVR,27,4,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm,CarlDa00
+K,Jason Myers,SEA,31,7,17,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0,FW: 1st Tm All-Conf. NFLPA: 1st Tm SN: 1st Tm,MyerJa00
+K,Justin Tucker,BAL,33,10,17,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,AP: 2nd Tm PFF: 2nd Tm,TuckJu00
+P,Tommy Townsend,KAN,26,2,17,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm NFLPA: 1st Tm PFF: 1st Tm,TownTo01
+P,Ryan Stonehouse,TEN,23,Rook,17,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0,SN: 1st Tm AP: 2nd Tm,StonRy00
+P,Johnny Hekker,CAR,32,10,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,FW: 1st Tm All-Conf.,HekkJo00
+P,AJ Cole III,LVR,27,3,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFF: 2nd Tm,ColeAJ01
+PR,Marcus Jones,NWE,24,Rook,15,4,0,0,0,0,0,0,0,0,4,78,1,34,0.0,2,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 2nd Tm SN: 1st Tm,JoneMa06
+PR,KaVontae Turpin,DAL,26,Rook,17,0,0,0,0,0,0,3,17,0,1,9,0,1,0.0,0,NFLPA: 1st Tm,TurpKa00
+PR,Kalif Raymond,DET,28,6,17,7,0,0,0,0,0,7,36,0,47,616,0,0,0.0,0,FW: 1st Tm All-Conf. AP: 2nd Tm,RaymKa00
+KR,Keisean Nixon,GNB,25,3,17,4,0,0,0,0,0,0,0,0,0,0,0,18,0.0,1,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm,NixoKe00
+KR,Kene Nwangwu,MIN,24,1,17,0,0,0,0,0,0,9,14,0,2,21,0,3,0.0,0,AP: 2nd Tm SN: 1st Tm,NwanKe00
+KR,Cordarrelle Patterson,ATL,31,9,13,11,0,0,0,0,0,144,695,8,21,122,0,1,0.0,0,NFLPA: 1st Tm,PattCo00
+KR,Nyheim Hines,2TM,26,4,16,5,0,0,0,0,0,24,33,1,30,241,1,2,0.0,0,FW: 1st Tm All-Conf.,HineNy00
+ST,Jeremy Reaves,WAS,26,4,17,3,0,0,0,0,0,0,0,0,0,0,0,20,0.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm NFLPA: 1st Tm PFF: 1st Tm,ReavJe00
+ST,Justin Hardee,NYJ,28,5,17,0,0,0,0,0,0,0,0,0,0,0,0,10,0.0,0,FW: 1st Tm All-Conf. NFLPA: 1st Tm,HardJu01
+ST,George Odum,SFO,29,4,17,0,0,0,0,0,0,0,0,0,0,0,0,16,0.0,1,AP: 2nd Tm PFF: 2nd Tm,OdumGe00

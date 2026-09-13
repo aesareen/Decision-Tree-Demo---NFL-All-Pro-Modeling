@@ -1,0 +1,115 @@
+Pos,Player,Tm,Age,Yrs,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Solo,Sk,Int,All-pro teams,Player-additional
+QB,Aaron Rodgers,GNB,31,9,16,16,341,520,4381,38,5,43,269,2,0,0,0,0,0.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm,RodgAa00
+QB,Tom Brady,NWE,37,14,16,16,373,582,4109,33,9,36,57,0,0,0,0,0,0.0,0,FW: 1st Tm All-Conf.,BradTo00
+QB,Tony Romo,DAL,34,10,15,15,304,435,3705,34,9,26,61,0,0,0,0,0,0.0,0,AP: 2nd Tm,RomoTo00
+QB,Ben Roethlisberger,PIT,32,10,16,16,408,608,4952,32,9,33,27,0,0,-6,0,0,0.0,0,PFF: 2nd Tm,RoetBe00
+RB,Le'Veon Bell,PIT,22,1,16,16,0,0,0,0,0,290,1361,8,83,854,3,0,0.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm,BellLe00
+RB,DeMarco Murray,DAL,26,3,16,16,0,0,0,0,0,392,1845,13,57,416,0,0,0.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm SN: 1st Tm,MurrDe00
+RB,Marshawn Lynch,SEA,28,7,16,14,0,0,0,0,0,280,1306,13,37,367,4,0,0.0,0,FW: 1st Tm All-Conf. AP: 2nd Tm PFF: 2nd Tm,LyncMa00
+RB,Justin Forsett,BAL,29,6,16,14,0,0,0,0,0,235,1266,8,44,263,0,0,0.0,0,FW: 1st Tm All-Conf.,ForsJu00
+FB,Anthony Sherman,KAN,26,3,16,6,0,0,0,0,0,2,8,0,10,71,1,13,0.0,0,PFF: 1st Tm AP: 2nd Tm,SherAn00
+FB,John Kuhn,GNB,32,8,16,2,0,0,0,0,0,24,85,1,4,23,0,1,0.0,0,AP: 1st Tm,KuhnJo00
+FB,Bruce Miller,SFO,27,3,16,8,0,0,0,0,0,6,9,0,18,189,2,1,0.0,0,PFF: 2nd Tm,MillBr02
+WR,Antonio Brown,PIT,26,4,16,16,2,2,20,1,0,4,13,0,129,1698,13,1,0.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm,BrowAn04
+WR,Dez Bryant,DAL,26,4,16,16,0,0,0,0,0,0,0,0,88,1320,16,0,0.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 2nd Tm,BryaDe01
+WR,Jordy Nelson,GNB,29,6,16,16,0,0,0,0,0,0,0,0,98,1519,13,1,0.0,0,FW: 1st Tm All-Conf. AP: 2nd Tm PFF: 2nd Tm SN: 1st Tm,NelsJo00
+WR,Odell Beckham Jr.,NYG,22,Rook,12,11,0,1,0,0,0,7,35,0,91,1305,12,1,0.0,0,PFF: 1st Tm,BeckOd00
+WR,Emmanuel Sanders,DEN,27,4,16,16,0,0,0,0,0,8,44,0,101,1404,9,0,0.0,0,PFF: 1st Tm,SandEm00
+WR,Julio Jones,ATL,25,3,15,15,0,0,0,0,0,1,1,0,104,1593,6,0,0.0,0,SN: 1st Tm,JoneJu02
+WR,Demaryius Thomas,DEN,27,4,16,16,0,0,0,0,0,0,0,0,111,1619,11,0,0.0,0,FW: 1st Tm All-Conf. AP: 2nd Tm,ThomDe03
+WR,Randall Cobb,GNB,24,3,16,16,0,0,0,0,0,11,37,0,91,1287,12,0,0.0,0,PFF: 2nd Tm,CobbRa00
+TE,Rob Gronkowski,NWE,25,4,15,10,0,0,0,0,0,0,0,0,82,1124,12,0,0.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm,GronRo00
+TE,Greg Olsen,CAR,29,7,16,16,0,0,0,0,0,0,0,0,84,1008,6,0,0.0,0,FW: 1st Tm All-Conf. PFF: 2nd Tm,OlseGr00
+T,Tyron Smith,DAL,24,3,16,16,0,0,0,0,0,0,0,0,0,0,0,,0.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm SN: 1st Tm,SmitTy00
+T,Jason Peters,PHI,32,10,16,16,0,0,0,0,0,0,0,0,0,0,0,,0.0,0,FW: 1st Tm All-Conf. AP: 2nd Tm PFF: 1st Tm SN: 1st Tm,PeteJa21
+T,Joe Thomas,CLE,30,7,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm,ThomJo28
+T,Andrew Whitworth,CIN,33,8,16,16,0,0,0,0,0,0,0,0,0,0,0,,0.0,0,FW: 1st Tm All-Conf. AP: 2nd Tm PFF: 2nd Tm,WhitAn20
+LG,Kelechi Osemele,BAL,25,2,14,14,0,0,0,0,0,0,0,0,0,0,0,,0.0,0,PFF: 2nd Tm,OsemKe00
+G,Marshal Yanda,BAL,30,7,16,16,0,0,0,0,0,0,0,0,0,0,0,,0.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm,YandMa20
+G,Josh Sitton,GNB,28,6,16,16,0,0,0,0,0,0,0,0,0,0,0,,0.0,0,FW: 1st Tm All-Conf. AP: 2nd Tm FW: 1st Tm SN: 1st Tm,SittJo20
+G,Joel Bitonio,CLE,23,Rook,16,16,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,FW: 1st Tm All-Conf. PFF: 1st Tm,BitoJo00
+G,Zack Martin,DAL,24,Rook,16,16,0,0,0,0,0,0,0,0,0,0,0,,0.0,0,FW: 1st Tm All-Conf. AP: 1st Tm,MartZa00
+G,Kyle Long,CHI,26,1,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,AP: 2nd Tm,LongKy00
+C,Travis Frederick,DAL,23,1,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,FW: 1st Tm All-Conf. AP: 2nd Tm FW: 1st Tm PFF: 2nd Tm SN: 1st Tm,FredTr00
+C,Nick Mangold,NYJ,30,8,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,FW: 1st Tm All-Conf. PFF: 1st Tm,MangNi20
+C,Maurkice Pouncey,PIT,25,4,16,16,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0,AP: 1st Tm,PounMa20
+RG,T.J. Lang,GNB,27,5,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFF: 2nd Tm,LangT.20
+RT,Lane Johnson,PHI,24,1,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFF: 1st Tm,JohnLa01
+RT,Sebastian Vollmer,NWE,30,5,15,15,0,0,0,0,0,0,0,0,0,0,0,,0.0,0,PFF: 2nd Tm,VollSe20
+DE,J.J. Watt,HOU,25,3,16,16,0,0,0,0,0,0,0,0,3,4,3,59,20.5,1,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm,WattJ.00
+DE,Mario Williams,BUF,29,8,16,16,0,0,0,0,0,0,0,0,0,0,0,36,14.5,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm,WillMa22
+DE,Robert Quinn,STL,24,3,16,16,0,0,0,0,0,0,0,0,0,0,0,39,10.5,0,SN: 1st Tm,QuinRo00
+DE,Calais Campbell,ARI,28,6,14,14,0,0,0,0,0,0,0,0,0,0,0,48,7.0,1,FW: 1st Tm All-Conf. AP: 2nd Tm,CampCa99
+DE,Fletcher Cox,PHI,24,2,16,16,0,0,0,0,0,0,0,0,0,0,0,48,4.0,0,FW: 1st Tm All-Conf. AP: 2nd Tm,CoxxFl00
+DE,Cameron Wake,MIA,32,5,16,16,0,0,0,0,0,0,0,0,0,0,0,32,11.5,0,AP: 2nd Tm PFF: 2nd Tm,WakeCa00
+DT,Ndamukong Suh,DET,27,4,16,16,0,0,0,0,0,0,0,0,0,0,0,44,8.5,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 2nd Tm SN: 1st Tm,SuhxNd99
+DT,Marcell Dareus,BUF,24,3,15,15,0,0,0,0,0,0,0,0,0,0,0,36,10.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm,DareMa00
+DT,Gerald McCoy,TAM,26,4,13,13,0,0,0,0,0,0,0,0,0,0,0,28,8.5,0,FW: 1st Tm All-Conf. AP: 2nd Tm SN: 1st Tm,McCoGe99
+DT,Aaron Donald,STL,23,Rook,16,12,0,0,0,0,0,0,0,0,0,0,0,38,9.0,0,PFF: 1st Tm,DonaAa00
+DT,Sheldon Richardson,NYJ,24,1,16,16,0,0,0,0,0,0,0,0,0,0,0,42,8.0,0,PFF: 1st Tm,RichSh00
+DT,Kyle Williams,BUF,31,8,15,15,0,0,0,0,0,0,0,0,0,0,0,30,5.5,1,FW: 1st Tm All-Conf.,WillKy20
+DT,Muhammad Wilkerson,NYJ,25,3,13,13,0,0,0,0,0,0,0,0,0,0,0,31,6.0,0,PFF: 2nd Tm,WilkMu00
+NT,Johnathan Hankins,NYG,22,1,16,16,0,0,0,0,0,0,0,0,0,0,0,30,7.0,0,PFF: 2nd Tm,HankJo00
+OLB,Justin Houston,KAN,25,3,16,16,0,0,0,0,0,0,0,0,0,0,0,60,22.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm,HousJu00
+OLB,Von Miller,DEN,25,3,16,16,0,0,0,0,0,0,0,0,0,0,0,43,14.0,0,FW: 1st Tm All-Conf. AP: 2nd Tm FW: 1st Tm PFF: 2nd Tm SN: 1st Tm,MillVo00
+OLB,Elvis Dumervil,BAL,30,8,16,2,0,0,0,0,0,0,0,0,0,0,0,28,17.0,0,AP: 1st Tm,DumeEl20
+OLB,DeAndre Levy,DET,27,5,16,16,0,0,0,0,0,0,0,0,0,0,0,117,2.5,1,FW: 1st Tm All-Conf. AP: 2nd Tm PFF: 2nd Tm,LevyDe99
+OLB,Connor Barwin,PHI,28,5,16,16,0,0,0,0,0,0,0,0,0,0,0,47,14.5,0,FW: 1st Tm All-Conf. AP: 2nd Tm,BarwCo99
+ILB,Bobby Wagner,SEA,24,2,11,11,0,0,0,0,0,0,0,0,0,0,0,67,2.0,0,AP: 1st Tm,WagnBo00
+ILB,C.J. Mosley,BAL,22,Rook,16,16,0,0,0,0,0,0,0,0,0,0,0,88,3.0,2,AP: 2nd Tm,MoslC.00
+ILB,Lawrence Timmons,PIT,28,7,16,16,0,0,0,0,0,0,0,0,0,0,0,87,2.0,0,AP: 2nd Tm,TimmLa99
+MLB,Luke Kuechly,CAR,23,2,16,16,0,0,0,0,0,0,0,0,0,0,0,99,3.0,1,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm,KuecLu00
+MLB,C.J. Mosley,DET,31,9,15,8,0,0,0,0,0,0,0,0,0,0,0,17,2.5,0,FW: 1st Tm All-Conf.,MoslC.20
+LB,Dont'a Hightower,NWE,24,2,12,12,0,0,0,0,0,0,0,0,0,0,0,51,6.0,0,PFF: 1st Tm,HighDo01
+LB,Jamie Collins,NWE,25,1,15,15,0,0,0,0,0,0,0,0,0,0,0,74,4.0,2,PFF: 2nd Tm,CollJa00
+CB,Darrelle Revis,NWE,29,7,16,16,0,0,0,0,0,0,0,0,0,0,0,41,0.0,2,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm,ReviDa99
+CB,Richard Sherman,SEA,26,3,16,16,0,0,0,0,0,0,0,0,0,0,0,45,0.0,4,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 2nd Tm SN: 1st Tm,SherRi00
+CB,Chris Harris Jr.,DEN,25,3,16,16,0,0,0,0,0,0,0,0,0,0,0,51,1.0,3,FW: 1st Tm All-Conf. AP: 2nd Tm PFF: 1st Tm,HarrCh01
+CB,Vontae Davis,IND,26,5,15,15,0,0,0,0,0,0,0,0,0,0,0,35,0.0,4,PFF: 1st Tm,DaviVo99
+CB,Desmond Trufant,ATL,24,1,16,16,0,0,0,0,0,0,0,0,0,0,0,53,0.0,3,FW: 1st Tm All-Conf.,TrufDe00
+CB,Brent Grimes,MIA,31,7,16,16,0,0,0,0,0,0,0,0,0,0,0,47,0.0,5,AP: 2nd Tm,GrimBr20
+CB,Orlando Scandrick,DAL,27,6,14,14,0,0,0,0,0,0,0,0,0,0,0,50,1.0,2,PFF: 2nd Tm,ScanOr99
+CB,Sean Smith,KAN,27,5,16,16,0,0,0,0,0,0,0,0,0,0,0,47,0.0,1,PFF: 2nd Tm,SmitSe99
+S,Eric Weddle,SDG,29,7,16,16,0,1,0,0,0,0,0,0,0,0,0,91,0.0,1,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm,WeddEr99
+S,Earl Thomas,SEA,25,4,16,16,0,0,0,0,0,0,0,0,0,0,0,71,0.0,1,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 2nd Tm SN: 1st Tm,ThomEa99
+S,Harrison Smith,MIN,25,2,16,16,0,0,0,0,0,0,0,0,0,0,0,71,3.0,5,PFF: 1st Tm,SmitHa00
+S,Glover Quin,DET,28,5,16,16,0,0,0,0,0,0,0,0,0,0,0,57,0.0,7,FW: 1st Tm All-Conf. AP: 2nd Tm PFF: 2nd Tm,QuinGl99
+S,Devin McCourty,NWE,27,4,16,16,0,0,0,0,0,0,0,0,0,0,0,51,0.0,2,FW: 1st Tm All-Conf.,McCoDe99
+S,Kam Chancellor,SEA,26,4,14,14,0,0,0,0,0,0,0,0,0,0,0,60,0.0,1,AP: 2nd Tm,ChanKa99
+LS,Jon Dorenbos,PHI,34,11,16,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0,PFF: 1st Tm,DoreJo20
+K,Matt Bryant,ATL,39,12,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFF: 1st Tm,bryanmat01
+K,Stephen Gostkowski,NWE,30,8,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,AP: 2nd Tm,GostSt20
+P,Pat McAfee,IND,27,5,16,0,0,1,0,0,0,0,0,0,0,0,0,2,0.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm,McAfPa44
+P,Johnny Hekker,STL,24,2,16,0,2,2,37,0,0,0,0,0,0,0,0,0,0.0,0,FW: 1st Tm All-Conf. AP: 2nd Tm PFF: 1st Tm,HekkJo00
+P,Kevin Huber,CIN,29,5,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,SN: 1st Tm,HubeKe20
+PR,Darren Sproles,PHI,31,9,15,0,0,0,0,0,0,57,329,6,40,387,0,0,0.0,0,FW: 1st Tm All-Conf. AP: 2nd Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm,SproDa00
+PR,De'Anthony Thomas,KAN,21,Rook,12,3,0,0,0,0,0,14,113,1,23,156,0,0,0.0,0,FW: 1st Tm All-Conf.,ThomDe05
+KR,Adam Jones,CIN,31,9,16,3,0,0,0,0,0,0,0,0,0,0,0,51,0.0,3,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm,JonePa20
+KR,Jacoby Jones,BAL,30,7,16,0,0,0,0,0,0,3,16,0,9,131,0,0,0.0,0,SN: 1st Tm,JoneJa03
+KR,Devin Hester,ATL,32,8,16,1,0,0,0,0,0,6,36,1,38,504,2,0,0.0,0,FW: 1st Tm All-Conf.,HestDe99
+ST,Matthew Slater,NWE,29,6,16,0,0,0,0,0,0,0,0,0,0,0,0,13,0.0,0,FW: 1st Tm All-Conf. FW: 1st Tm PFF: 1st Tm,SlatMa00
+ST,Justin Bethel,ARI,24,2,16,0,0,0,0,0,0,0,0,0,0,0,0,21,0.0,0,FW: 1st Tm All-Conf. PFF: 1st Tm,BethJu00
+ST,Emmanuel Acho,PHI,24,1,14,2,0,0,0,0,0,0,0,0,0,0,0,21,0.0,0,PFF: 1st Tm,AchoEm00
+ST,Nick Bellore,NYJ,25,3,16,0,0,0,0,0,0,0,0,0,0,0,0,11,0.0,0,PFF: 1st Tm,BellNi01
+ST,Nat Berhe,NYG,23,Rook,16,0,0,0,0,0,0,0,0,0,0,0,0,11,0.0,0,PFF: 1st Tm,BerhNa00
+ST,Bryan Braman,PHI,27,3,16,0,0,0,0,0,0,0,0,0,0,0,0,6,0.0,0,PFF: 1st Tm,BramBr00
+ST,Morgan Burnett,GNB,25,4,15,15,0,0,0,0,0,0,0,0,0,0,0,94,1.5,1,PFF: 1st Tm,BurnMo99
+ST,Trey Burton,PHI,23,Rook,15,0,0,0,0,0,0,5,10,0,0,0,0,4,0.0,0,PFF: 1st Tm,BurtTr01
+ST,Marcus Easley,BUF,27,2,10,0,0,0,0,0,0,0,0,0,0,0,0,9,0.0,0,PFF: 1st Tm,EaslMa00
+ST,Cory Harkey,STL,24,2,16,13,0,0,0,0,0,0,0,0,8,55,1,1,0.0,0,PFF: 1st Tm,HarkCo00
+ST,Andrew Jackson,IND,22,Rook,13,0,0,0,0,0,0,0,0,0,0,0,0,8,1.0,0,PFF: 1st Tm,JackAn02
+ST,Steven Johnson,DEN,26,2,14,7,0,0,0,0,0,0,0,0,0,0,0,21,0.5,0,PFF: 1st Tm,JohnSt02
+ST,Devon Kennard,NYG,23,Rook,12,6,0,0,0,0,0,0,0,0,0,0,0,36,4.5,0,PFF: 1st Tm,KennDe00
+ST,Karl Klug,TEN,26,3,16,0,0,0,0,0,0,0,0,0,1,9,0,18,2.0,0,PFF: 1st Tm,KlugKa00
+ST,Danieal Manning,HOU,32,8,16,5,0,0,0,0,0,0,0,0,0,0,0,32,0.0,0,PFF: 1st Tm,MannDa21
+ST,Josh Martin,KAN,23,1,14,0,0,0,0,0,0,0,0,0,0,0,0,11,0.5,0,PFF: 1st Tm,MartJo02
+ST,Albert McClellan,BAL,28,3,16,0,0,0,0,0,0,0,0,0,0,0,0,12,0.0,0,PFF: 1st Tm,McClAl00
+ST,Kelcie McCray,KAN,26,1,16,0,0,0,0,0,0,0,0,0,0,0,0,9,0.0,0,PFF: 1st Tm,McCrKe00
+ST,Jordan Poyer,CLE,23,1,16,0,0,0,0,0,0,0,0,0,0,0,0,15,0.0,0,PFF: 1st Tm,PoyeJo00
+ST,Chase Reynolds,STL,27,1,15,0,0,0,0,0,0,0,0,0,0,0,0,14,0.0,0,PFF: 1st Tm,ReynCh00
+ST,Adam Thielen,MIN,24,Rook,16,2,0,0,0,0,0,0,0,0,8,137,1,8,0.0,0,PFF: 1st Tm,ThieAd00
+ST,Michael Thomas,MIA,24,1,8,2,0,0,0,0,0,0,0,0,0,0,0,15,0.0,0,PFF: 1st Tm,ThomMi02
+ST,Jason Williams,2TM,28,5,14,0,0,0,0,0,0,0,0,0,0,0,0,7,0.0,0,PFF: 1st Tm,WillJa95
+ST,Tourek Williams,SDG,23,1,15,0,0,0,0,0,0,0,0,0,0,0,0,18,0.0,0,PFF: 1st Tm,WillTo00
+PK,Adam Vinatieri,IND,42,18,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,FW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm SN: 1st Tm,vinatada01
+PK,Dan Bailey,DAL,26,3,16,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0,FW: 1st Tm All-Conf.,BailDa00
